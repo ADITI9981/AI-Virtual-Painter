@@ -32,14 +32,14 @@
 ## 🎥 Demo
 <p align="center">
   <!-- Replace with your video or GIF -->
-  <video src="https://github.com/user-attachments/assets/3faa642a-4910-4f82-9c35-de658c9d46bb" width="70%" controls></video><br/>
+  <video src="https://github.com/user-attachments/assets/3faa642a-4910-4f82-9c35-de658c9d46bb" width="45%" controls></video><br/>
   <em>Real-time drawing using finger gestures</em>
 </p>
 
 <p align="center">
   <!-- Replace with your video or GIF -->
   <video src="https://github.com/user-attachments/assets/f184a263-8380-4698-b9b7-f2abd031d8e7
-" width="70%" controls></video><br/>
+" width="45%" controls></video><br/>
   <em>Real-time drawing using finger gestures</em>
 </p>
 
